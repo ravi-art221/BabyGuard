@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:2:5-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\172dfd96c2d2d1ea778c6fb46b895736\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\172dfd96c2d2d1ea778c6fb46b895736\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\50cf2189d49f788d579516ef796fc27d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\50cf2189d49f788d579516ef796fc27d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\172dfd96c2d2d1ea778c6fb46b895736\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\bf21ee25a403245f998cded0362b0cc2\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\cd34d26985ad91a59bfc030adb9957f3\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\1a7c9af04b520fd2d82e49c84ebce79e\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\58ca8d4856f4782df4f318d63b9575e6\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\4c911dd218220ea80053a4928c826927\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\74b11701060f3fcc7ae66710f8b0d02a\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\172dfd96c2d2d1ea778c6fb46b895736\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\86a00ca5eeee7f68bbba7fdba366de26\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\2a5f0a16996de5f8e6836ac2f42d0585\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\b69e4fe49b03f0d08d943cf0765d9f1f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\0477ada754bf98b5538c0899ff04f48d\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\028e3ef11cb1fd723b73cff3b9fbc2c9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\14f0500b9a18f3ead18e34ae28f8b321\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\50cf2189d49f788d579516ef796fc27d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\d07394a32a079f6dda4c27bee5c50ddc\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\ed12233a59f26dc63947dfbb02d42bf3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:41:21-70
+data
+ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\bf21ee25a403245f998cded0362b0cc2\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\bf21ee25a403245f998cded0362b0cc2\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\cd34d26985ad91a59bfc030adb9957f3\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\cd34d26985ad91a59bfc030adb9957f3\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\1a7c9af04b520fd2d82e49c84ebce79e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\1a7c9af04b520fd2d82e49c84ebce79e\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\58ca8d4856f4782df4f318d63b9575e6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\58ca8d4856f4782df4f318d63b9575e6\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\4c911dd218220ea80053a4928c826927\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\4c911dd218220ea80053a4928c826927\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\74b11701060f3fcc7ae66710f8b0d02a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\74b11701060f3fcc7ae66710f8b0d02a\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\172dfd96c2d2d1ea778c6fb46b895736\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\172dfd96c2d2d1ea778c6fb46b895736\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\86a00ca5eeee7f68bbba7fdba366de26\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\86a00ca5eeee7f68bbba7fdba366de26\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\2a5f0a16996de5f8e6836ac2f42d0585\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\2a5f0a16996de5f8e6836ac2f42d0585\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\b69e4fe49b03f0d08d943cf0765d9f1f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\b69e4fe49b03f0d08d943cf0765d9f1f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\0477ada754bf98b5538c0899ff04f48d\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\0477ada754bf98b5538c0899ff04f48d\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\028e3ef11cb1fd723b73cff3b9fbc2c9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\028e3ef11cb1fd723b73cff3b9fbc2c9\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\14f0500b9a18f3ead18e34ae28f8b321\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\14f0500b9a18f3ead18e34ae28f8b321\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\50cf2189d49f788d579516ef796fc27d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\50cf2189d49f788d579516ef796fc27d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\d07394a32a079f6dda4c27bee5c50ddc\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\d07394a32a079f6dda4c27bee5c50ddc\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\ed12233a59f26dc63947dfbb02d42bf3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\ed12233a59f26dc63947dfbb02d42bf3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51

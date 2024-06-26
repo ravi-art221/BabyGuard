@@ -1,0 +1,12 @@
+com.example.dht.app-core-1.6.0-0 C:\Users\Maulana Ravi\.gradle\caches\transforms-3\172dfd96c2d2d1ea778c6fb46b895736\transformed\core-1.6.0\res
+com.example.dht.app-jetified-window-1.0.0-beta04-1 C:\Users\Maulana Ravi\.gradle\caches\transforms-3\7bf4e3590f062a7525d06f2d54ad9961\transformed\jetified-window-1.0.0-beta04\res
+com.example.dht.app-jetified-window-java-1.0.0-beta04-2 C:\Users\Maulana Ravi\.gradle\caches\transforms-3\bf21ee25a403245f998cded0362b0cc2\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.dht.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Maulana Ravi\.gradle\caches\transforms-3\ed12233a59f26dc63947dfbb02d42bf3\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.dht.app-debug-4 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\debug\res
+com.example.dht.app-main-5 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\android\app\src\main\res
+com.example.dht.app-pngs-6 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\build\app\generated\res\pngs\debug
+com.example.dht.app-resValues-7 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\build\app\generated\res\resValues\debug
+com.example.dht.app-rs-8 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\build\app\generated\res\rs\debug
+com.example.dht.app-mergeDebugResources-9 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.dht.app-mergeDebugResources-10 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.dht.app-merged_res-11 E:\KULIAH\SEMESTER 4\.PBL\BabyGuarddd\build\app\intermediates\merged_res\debug

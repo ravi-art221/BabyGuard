@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.dht.app-mergeDebugResources-9:/values-kk/values-kk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Maulana Ravi\\.gradle\\caches\\transforms-3\\172dfd96c2d2d1ea778c6fb46b895736\\transformed\\core-1.6.0\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
